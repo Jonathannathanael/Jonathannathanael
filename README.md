@@ -1,5 +1,5 @@
-<h1 align="center">Jonathan Nathanael</h1>
-<h3 align="center">Information System Student</h3>
+<h1 align="left">Jonathan Nathanael</h1>
+
 
 
 <h3 align="left">Currently Learning :</h3>
